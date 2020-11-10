@@ -9,3 +9,5 @@ cd $(dirname $0)
 self_update $@
 
 echo hello $@
+
+echo hello from other
